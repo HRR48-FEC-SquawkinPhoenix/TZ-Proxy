@@ -1,0 +1,12 @@
+.main-proxy {
+  display: flex;
+  margin: 0 10%;
+}
+
+.left-proxy {
+  flex: 0 0 65%;
+}
+
+.right-proxy {
+  flex: 0 0 45%;
+}
